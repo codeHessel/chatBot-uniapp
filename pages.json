@@ -1,0 +1,54 @@
+{
+	"pages": [{
+			"path": "pages/index/index",
+			"style": {
+				// "navigationBarTitleText": "uni-app"
+			}
+		},
+		{
+			"path": "pages/tabBar/index",
+			"style": {
+				// "navigationBarTitleText": "uni-app"
+			}
+		}
+	],
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#007AFF",
+		"borderStyle": "black",
+		"backgroundColor": "#F8F8F8",
+		"list": [
+			{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/component.png",
+				"selectedIconPath": "static/componentHL.png",
+				"text": "组件"
+			},
+			{
+				"pagePath": "pages/tabBar/index",
+				"iconPath": "static/component.png",
+				"selectedIconPath": "static/componentHL.png",
+				"text": "机器人"
+			}
+		]
+	},
+	"globalStyle": {
+		"pageOrientation": "portrait",
+		"navigationBarTitleText": "ChatApp",
+		"navigationBarTextStyle": "black",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		},
+		"mp-360": {
+			"navigationStyle": "custom"
+		},
+		"h5": {
+			"navigationStyle": "custom",
+			"maxWidth": 760,
+			"navigationBarTextStyle": "black",
+			"navigationBarBackgroundColor": "#F1F1F1"
+		}
+	}
+}
