@@ -4,7 +4,7 @@ import time
 import traceback
 from requests_html import HTMLSession
 
-out_path = r'/var/www/uniapp/python-sever/log.txt'
+out_path = r'/var/www/github-push/uniapp-server/server/log.txt'
 
 TX_API_ROOT = r'http://api.tianapi.com'
 
