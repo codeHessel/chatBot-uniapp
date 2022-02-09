@@ -7,4 +7,6 @@ A simple Chat Bot, with tencent AI Bot, uniapp.
 
 仅做学习使用。
 
+前端后端源码交流群Q：726718964
+
 见笑了~
